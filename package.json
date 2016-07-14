@@ -1,0 +1,22 @@
+{
+  "name": "classmeme",
+  "version": "1.0.0",
+  "description": "A tally counter for people to logon and guess on how many times a class meme will be used during the day.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vioten/ClassMeme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vioten/ClassMeme/issues"
+  },
+  "homepage": "https://github.com/Vioten/ClassMeme#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
